@@ -10,6 +10,7 @@ choice = int(input())
 
 if choice==1:
     is_new=True
+    print("Wellcome to you new student")
 else:
     is_new = False
 
