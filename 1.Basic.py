@@ -19,7 +19,7 @@ if(is_new == True):
     print("Age of new Student is         : ", age)
     print("Roll number of new Student is : ", roll)
 else:
-    print("Existing Student")
+    print("Existing Student, Details are already exist")
     print("Name of existing Student is        : ", name)  # it will print the details of existing Student
     print("Age of existing Student is         : ", age)
     print("Roll number of existing Student is : ", roll)
