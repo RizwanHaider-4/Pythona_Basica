@@ -1,6 +1,6 @@
 # multiple values
-# sep=
-# end=
+# sep= "values"
+# end= "values"
 a = 12
 b = 15
 print("hello i am very beautiful", a, b, 16) # multiple values
