@@ -1,7 +1,7 @@
 a = 0
 print("Hello world", a)
 print(type(a))
-"""hello
+"""hello  # Multi line comments
 how are
 you"""
 
