@@ -24,5 +24,6 @@ print(type(c))
 a = "1111"
 b = "1111"
 
+# hera a and b is a string
 c = int(a)+int(b)
 print(c)
