@@ -8,6 +8,6 @@ print("Registration Number is  :  ",reg)
 a , b, c, d, e = 1, 2, 3, 4, 5
 print(a, b, c, d, e)
 print(type(a))
-b = str(a)
+b = str(a) # convert b int to String
 print(b)
 print(type(b))
