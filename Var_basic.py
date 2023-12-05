@@ -1,4 +1,5 @@
 # Three Cases
+# Rules to gives variable naming
 
 # 1 
 # Camel Case
@@ -20,4 +21,5 @@ MyVariableName = "Hello"
 # separated by underscore
 
 my_varaiable_name = "Hello"
+
 
