@@ -28,7 +28,7 @@ print("He has Good salary",salary)
 print("type of handsome data types  :",type(handsome))
 print("Type of Salary data types    :",type(salary))
 
-if handsome=='True' and salary=='True':
+if handsome=='True' and salary=='True':   # must be under commas
     print("you can able to marry blue eyes beautiful girl")
 elif handsome=='False' and salary=='True':
     print("You can marry Beautiful girl")
