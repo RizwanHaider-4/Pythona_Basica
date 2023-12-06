@@ -1,8 +1,8 @@
-a = " "
+a = " " # only space character
 b = bool(a)
 print("1.  ",b)
 
-a = ""
+a = "" # even not a space character
 b = bool(a)
 print("2.  ",b)
 
