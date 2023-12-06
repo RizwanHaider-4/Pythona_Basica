@@ -10,7 +10,7 @@ print(d)
 
 a = b = c = d = "xyx"
 print(a)
-print(b)
+print(b)    # data type is same
 print(c)
 print(d)
 
