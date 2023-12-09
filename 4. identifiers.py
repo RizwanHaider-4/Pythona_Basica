@@ -5,6 +5,8 @@
 # 4 class name
 
 # symbolic constant
+# programmer made constant 
+# Basically in Python no constant does exist as it is were in C and java
 
 # whoose value does not change throughout the program
 # written in upper case-letter
