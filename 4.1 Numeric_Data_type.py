@@ -2,6 +2,11 @@
  
 # 1. integer ---> number without decimals or fractions part 
 #                 no size limit for int data type
+# operation allowed
+# Arithematic 
+# Assignment 
+# comparision
+# bitwise
 
 # 2. float   ---> number with decimals or fraction
 #                 represents floating point number
@@ -42,7 +47,6 @@ ex2 = (6+8j)*(6+8j)
 print("Complex number a is               :   ",a)
 print("Complex number b is               :   ",b)
 print("Data type of a and b is           :   ",type(b))
-
 print("1. Addition of a and b is         :   ",ad)
 print("2. Subtraction of a and b is      :   ",sub)
 print("3. Multiplication of a and b is   :   ",mul)
